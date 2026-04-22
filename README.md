@@ -49,4 +49,4 @@ Master’s student in Data Science and Machine Learning, focused on building dat
 
 ## 🔹 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/giannis-vatsakis-47aabb400/)
+- [LinkedIn](https://www.linkedin.com/in/giannis-vatsakis)
