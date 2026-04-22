@@ -22,11 +22,11 @@ Master’s student in Data Science and Machine Learning, focused on building dat
 
 ## 🔹 Skills
 
-- **Languages:** R (primary), basic Python 
+- **Languages:** R (primary), Python 
 - **Machine Learning:** Classification, Clustering, Model Evaluation  
 - **Statistics:** Hypothesis testing, regression, feature analysis  
 - **Data Analysis:** EDA, feature engineering, data cleaning  
-- **Tools:** Git, GitHub, RStudio  
+- **Tools:** Git, GitHub, RStudio, R Markdown  
 
 ---
 
